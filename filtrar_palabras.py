@@ -3,4 +3,4 @@ def filtrar_palabras(lista_palabras, n):
     return filtradas
 
 
-print(filtrar_palabras(['pedro', 'uno', 'a', 'culo', 'zz'], 3))
+print(filtrar_palabras(['pedro', 'uno', 'a', 'asdasd', 'zz'], 3))
